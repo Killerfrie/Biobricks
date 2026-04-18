@@ -68,6 +68,13 @@ body {
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
+.achievment{
+    max-width: 250px;
+    margin: auto;
+    background: #2596be;
+    position: relative;
+    left: 30px;
+}
 
 h2 {
     color: #2c3e50;
